@@ -1,0 +1,258 @@
+[
+    {
+        "outputFile": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 90,
+                        "endColumn": 57,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 149,
+                        "endColumn": 55,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 35,
+                    "endOffset": 200
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\exploded-aar\\ZXingLib\\libzxing\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 35,
+                        "endOffset": 86
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 205,
+                    "endColumn": 42,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\exploded-aar\\ZXingLib\\libzxing\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 91,
+                        "endColumn": 42,
+                        "endOffset": 129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 45,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\exploded-aar\\ZXingLib\\libzxing\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 134,
+                        "endColumn": 45,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 33,
+                    "endOffset": 323
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\exploded-aar\\ZXingLib\\libzxing\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 33,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endColumn": 44,
+                    "endOffset": 368
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\exploded-aar\\ZXingLib\\libzxing\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 44,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 373,
+                    "endColumn": 47,
+                    "endOffset": 416
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\exploded-aar\\ZXingLib\\libzxing\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 47,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 421,
+                    "endColumn": 52,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 120,
+                        "endColumn": 52,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 45,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 45,
+                        "endOffset": 58
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 52,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 66,
+                        "endColumn": 52,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 878
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\exploded-aar\\ZXingLib\\libzxing\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 883,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1011
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 187
+                    }
+                }
+            }
+        ]
+    }
+]

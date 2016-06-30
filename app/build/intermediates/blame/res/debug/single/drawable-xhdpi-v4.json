@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow.png",
+        "source": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\exploded-aar\\ZXingLib\\libzxing\\unspecified\\res\\drawable-xhdpi-v4\\shadow.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\scan_line.png",
+        "source": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\exploded-aar\\ZXingLib\\libzxing\\unspecified\\res\\drawable-xhdpi-v4\\scan_line.png"
+    },
+    {
+        "merged": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\qr_code_bg.9.png",
+        "source": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\exploded-aar\\ZXingLib\\libzxing\\unspecified\\res\\drawable-xhdpi-v4\\qr_code_bg.9.png"
+    }
+]

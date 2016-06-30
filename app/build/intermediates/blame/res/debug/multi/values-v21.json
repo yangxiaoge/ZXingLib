@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 129
+                },
+                "from": {
+                    "file": "D:\\Develop\\Android\\github\\GitHub_clone\\ZXingLib\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 3,
+                        "endColumn": 12,
+                        "endOffset": 132
+                    }
+                }
+            }
+        ]
+    }
+]
